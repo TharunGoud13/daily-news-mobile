@@ -32,13 +32,14 @@
     "plugins": [
       "expo-router",
       "expo-font",
-      "expo-web-browser",
-      "expo-haptics"
+      "expo-web-browser"
     ],
     "extra": {
       "eas": {
-        "projectId": "fbf8a448-84ee-4757-b00a-b7829bf84911"
-      }
-    }
+        "projectId": "38b7aad9-dfc6-4d51-a8d5-72dff57d5fdd"
+      },
+      "router": {}
+    },
+    "owner": "tharungoud"
   }
 }
